@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [YOUR NAME]
+# Hi there 👋, I'm Manav
 
 ### Full-Stack Developer in the making | Always learning
 
