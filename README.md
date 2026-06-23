@@ -5,7 +5,7 @@
 I'm a student focused on full-stack web development — building things end to end, from clean UIs to solid backends. I love turning ideas into working projects and picking up new tools along the way.
 
 - 🌱 Currently learning **React, Node.js, databases**
-- 🔭 Working on ** Java **
+- 🔭 Working on  **Java** 
 - 💬 Ask me about **web development**
 - 📫 Reach me at **manavpatel232002@gmail.com**
 - ⚡ Fun fact: **I debug better at 2 AM than at 2 PM.**
