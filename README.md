@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Manav
 
-### Full-Stack Developer in the making | Always learning
+### Full-Stack Developer | MSc in Computer Science | Toronto, Canada
 
-I'm a student focused on full-stack web development — building things end to end, from clean UIs to solid backends. I love turning ideas into working projects and picking up new tools along the way.
+I'm a full-stack developer with a Master's in Computer Science, building things end to end, from clean UIs to solid backends. I love turning ideas into working projects and picking up new tools along the way.
 
 - 🌱 Currently learning **Spring AI, RAG and MCP**
 - 🔭 Working on  **full-stack apps with Java, Spring Boot and React**
