@@ -69,10 +69,6 @@ I'm a student focused on full-stack web development — building things end to e
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav2304&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manav2304&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manav2304&theme=tokyonight)
 
 ---
